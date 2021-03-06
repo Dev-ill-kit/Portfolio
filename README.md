@@ -20,7 +20,7 @@ ____
 Run `make`
 ____
 :four: **ft_server** :whale2:\
-*Simple docker web server using `Wordpress`, `Nginx` and `MySql`*
+*Simple `docker` web server using `Wordpress`, `Nginx` and `MySql`*
 ### Building
 Run `docker build`
 ____
@@ -33,7 +33,7 @@ Run `./cube3d [map_file(map.cub)]`, a window should appear. You can navigate thr
 map using the `W``A``S``D` keys.
 ____
 :six: **ft_services** ☸\
-*Modified `ft_server` project, using Kubernetes and few more services\
+*Modified `ft_server` project, using `Kubernetes` and few more services\
 including `Grafana`, `InfluxDB`, `ftps`*
 ### Running
 Run `./setup.sh`

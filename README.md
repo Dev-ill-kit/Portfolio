@@ -5,12 +5,12 @@ Here I store projects that I do during my studies
 ## Content
 
 :one: **Libft** :white_check_mark:\
-*My own realisation of standart C library*
+*My own realisation of standart `C` library*
 ### Compiling
 Run `make`
 ____
 :two: **ft_printf** :white_check_mark:\
-*My own realisation of C formatted output function `printf`*
+*My own realisation of `C` formatted output function `printf`*
 ### Compiling
 Run `make`
 ____
